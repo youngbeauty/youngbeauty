@@ -2,7 +2,9 @@
 
 Hi, I'm Runze Yang, an undergraduate student at Hangzhou Dianzi University College of Excellence, and a master's student at Xi'an Jiaotong-Liverpool University.
 
-Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.进步不能停。
+Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.
+
+进步不能停。
 
 ### 💻 Weekly Development Breakdown
 <!-- This section can be automated or updated manually, showing what languages or tools you're working with -->
