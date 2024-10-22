@@ -11,7 +11,7 @@ Believing in long-termism, I am passionate about open source and enjoy experimen
 - **URL QR-code generateor**: Generate a QR code for the current web page - _2024.09.21_
 
 ### 📝 Recent Blog Posts
-- [我的第一篇文章](link-to-post)https://youngbeauty.github.io/posts/First/ - _2024.0901_
+- [我的第一篇文章]([link-to-post](https://youngbeauty.github.io/posts/First/))- _2024.0901_
 
 ### 📅 Trend Weekly
 - **Week #195**: [Trending topic] - _Date_
