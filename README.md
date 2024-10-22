@@ -1,6 +1,7 @@
 # Hello, World 👋
 
-Hi, I'm Runze Yang, an undergraduate student at Hangzhou Dianzi University College of Excellence, and a master's student at Xi'an Jiaotong-Liverpool University, full of passion and motivation for programming.Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.I enjoy experimenting with new ideas and sharing my learnings through my projects.
+Hi, I'm Runze Yang, an undergraduate student at Hangzhou Dianzi University College of Excellence, and a master's student at Xi'an Jiaotong-Liverpool University, full of passion and motivation for programming.
+Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.
 
 ### 💻 Weekly Development Breakdown
 <!-- This section can be automated or updated manually, showing what languages or tools you're working with -->
