@@ -10,6 +10,7 @@ Believing in long-termism, I am passionate about open source and enjoy experimen
 <!-- This section can be automated or updated manually, showing what languages or tools you're working with -->
 
 ### 🔥 Product Releases
+- **Web Snake Game**: A simple web snake game implemented with HTML, CSS and JavaScript. - _2024.10.31_
 - **Gesture recognition in VR**: Using algorithms to recognize gestures and achieve movement in VR - _2024.10.01_
 - **URL QR-code generateor**: Generate a QR code for the current web page - _2024.09.21_
 
