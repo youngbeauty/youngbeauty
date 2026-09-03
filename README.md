@@ -32,7 +32,7 @@ UI 设计、全栈开发、市场增长
 小红书：https://xhslink.cn/m/7a5vcLCoHe
 B站：https://space.bilibili.com/35496394?spm_id_from=333.1007.0.0
 抖音：https://v.douyin.com/38Bse-Xk9DA/
-微信：striveY23
+微信：goodY879
 
 Notion：https://app.notion.com/p/Y-3b7ec41ac602802584abedcf9e6d33df?source=copy_link
 github：https://github.com/youngbeauty/YKnowledge
