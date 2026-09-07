@@ -3,6 +3,7 @@
 你好，我是小Y 👋
 硅谷 AI 初创公司全栈程序员，日常主力干活的两个 agent 是 Claude Code 和 Codex。
 
+个人官网：https://ywebsite.vercel.app
 ---
 我做的产品
 一款独立开发、产设研一体的桌面端应用：
